@@ -1,6 +1,4 @@
-{
-  "products": [
-    {
+[{
       "id": 1,
       "slug": "2008-infiniti-g-254117",
       "year": 2008,
@@ -494,6 +492,4 @@
       "vin": "W1W40CHY5MT053847",
       "stock_number": "C427",
       "price": 29999
-    }
-  ]
-}
+    }]

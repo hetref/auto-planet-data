@@ -4,11 +4,14 @@
       "year": 2008,
       "make": "INFINITI",
       "model": "G",
+      "trim": "G35X SEDAN 4D",
       "drivetrain": "AWD",
       "transmission": "AUTOMATIC",
       "engine": "V6, 3.5 LITER",
       "mileage": 197428,
       "doors": 4,
+      "exterior_color": "GRAY",
+      "interior_color": "BLACK",
       "vin": "JNKBV61F28M254117",
       "stock_number": "254117",
       "price": 3495,
@@ -17,7 +20,11 @@
             "https://storage.googleapis.com/msgsndr/bplL1Tl3iNg0gDqUtaVA/media/696e6ac165acf0abeb9fea93.jpg", 
             "https://storage.googleapis.com/msgsndr/bplL1Tl3iNg0gDqUtaVA/media/696e6ac1c7f17fc1b3c305ed.jpg", 
             "https://storage.googleapis.com/msgsndr/bplL1Tl3iNg0gDqUtaVA/media/696e6ac165acf03a719fea92.jpg", 
-            "https://storage.googleapis.com/msgsndr/bplL1Tl3iNg0gDqUtaVA/media/696e6ac19b21f06c1c418f44.jpg"]
+            "https://storage.googleapis.com/msgsndr/bplL1Tl3iNg0gDqUtaVA/media/696e6ac19b21f06c1c418f44.jpg"],
+      "vehicle_description": "Buckle up and get ready to hit the road in this sleek and stylish 2008 Infiniti G35 Sedan! Powered by a robust 3.5L DOHC V6 engine, this car delivers a thrilling driving experience every time you're behind the wheel. The ATTESA E-TS all-wheel drive ensures maximum traction and control, while the smooth 5-speed automatic transmission with manual shift mode lets you take command of the road with ease.Whether you're cruising through the city or embarking on a long road trip, the comfortable interior of this Infiniti G35 offers plenty of amenities to enhance your driving experience. From the luxurious leather-trimmed interior to the innovative technology features like the 7 color LCD display and multi-function trip computer, this sedan has it all.Not to mention, safety is a top priority with dual front airbags, curtain side-impact airbags, and front seatbelt pretensioners. Plus, the included Carfax report gives you peace of mind knowing the vehicle's history. So why wait? Come test drive this fantastic 2008 Infiniti G35 Sedan today and experience luxury and performance like never before!",
+      "vehicle_equipments_section_1": "Anything that prevents accidents, protects occupants, or improves vehicle stability goes here.\nSIDE AIR BAGS\nDUAL AIR BAGS\nF&R HEAD CURTAIN AIR BAGS\nABS (4-WHEEL)\nVEHICLE DYNAMIC CONTROL\nTRACTION CONTROL\nANTI-THEFT SYSTEM\nBI-HID HEADLIGHTS",
+      "vehicle_equipments_section_2": "Features that improve driving comfort, ease of use, and perceived luxury, but don’t directly affect safety.\nAIR CONDITIONING\nPOWER STEERING\nPOWER WINDOWS\nPOWER DOOR LOCKS\nKEYLESS ENTRY\nKEYLESS START\nCRUISE CONTROL\nTILT & TELESCOPING WHEEL\nDUAL POWER SEATS\nHEATED SEATS\nLEATHER\nMOON ROOF\nPREMIUM PKG",
+      "vehicle_equipments_section_3": "Features related to appearance, wheels, lighting add-ons, and in-car entertainment & connectivity.\nALLOY WHEELS\nFOG LIGHTS\nAM/FM STEREO\nCD/MP3 (MULTI DISC)\nBLUETOOTH WIRELESS\nXM SATELLITE\nBOSE PREMIUM SOUND"
     },
     {
       "id": 2,
